@@ -1,3 +1,6 @@
+# Aquafox: Waterfox Classic, but for Windows XP
+That's right! Another browser for Windows XP! Don't expect updates all that often as this is what I do on my free time. Anyway, feel free to contribute
+# Original Readme (Waterfox Classic)
 The Waterfox source code is a specialised modification of the Mozilla platform, designed for privacy and user choice in mind. You should be able to
 install it and compile Waterfox without any issues. Other modifications and patches that are more
 upstream have been implemented as well to fix any compatibility/security issues that Mozilla may 
